@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <className>Black</className>
+    <adapterPattern>Adapter</adapterPattern>
+    <adapterPatternTarger>ConcreteCatTarget</adapterPatternTarger>
+    <adapterPatternAdaptee>ConcreteDogAdaptee</adapterPatternAdaptee>
+    <vehicle>Car</vehicle>
+    <road>CementRoad</road>
+</config>
